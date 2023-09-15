@@ -1,1 +1,3 @@
-sktime[all_extras]==0.20.1
+sktime
+statsmodels
+

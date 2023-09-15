@@ -65,7 +65,7 @@ We invite anyone to get involved as a developer, user, supporter (or any combina
 
 - [Pydata London 2023 - Time Series Classification, Regression, Distances & Kernels](https://github.com/sktime/sktime-tutorial-pydata-london-2023)
 
-- [Europython 2023](https://github.com/sktime/sktime-tutorial-europython-2023)
+- [Europython 2023 - Time Series Forecasting, Classification, Distances, Kernels, Alignments with sktime](https://github.com/sktime/sktime-tutorial-europython-2023)
 
 - [Pydata Amsterdam 2023: Probabilistic prediction, probabilistic forecasting with sktime, and probabilistic supervised regression with skpro](https://github.com/sktime/sktime-tutorial-pydata-Amsterdam-2023)
 

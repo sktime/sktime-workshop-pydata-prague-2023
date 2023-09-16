@@ -1,4 +1,3 @@
-package-two @ git+https://github.com/sktime/sktime@main
 statsmodels
 seaborn
 pmdarima

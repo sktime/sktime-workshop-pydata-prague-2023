@@ -1,3 +1,5 @@
 sktime
 statsmodels
-
+seaborn
+pmdarima
+kotsu

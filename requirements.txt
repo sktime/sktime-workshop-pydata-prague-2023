@@ -1,4 +1,4 @@
-sktime @ git+https://github.com/sktime/sktime@main
+sktime
 statsmodels
 seaborn
 pmdarima

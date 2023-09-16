@@ -1,3 +1,6 @@
-sktime
+package-two @ git+https://github.com/sktime/sktime@main
 statsmodels
-
+seaborn
+jupyter
+pmdarima
+dtw-python`

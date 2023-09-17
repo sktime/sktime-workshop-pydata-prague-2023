@@ -1,8 +1,3 @@
-# TODOs if repository is public
-* [ ] check binder
-* [ ] check conda installation
-* [ ] check pip installation
-
 Welcome to the sktime workshop at PyData Prague 2023
 =================================================
 

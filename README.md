@@ -1,5 +1,5 @@
-Welcome to the sktime workshop at PyData Prague 2023
-=================================================
+Welcome to the sktime workshop at PyCon Prague 2023
+===================================================
 
 This tutorial is about [sktime] - a unified framework for machine learning with time series. sktime contains algorithms and tools for building, applying, evaluating modular pipelines and composites for a variety of time series learning tasks, including forecasting, classification, regression.
 
